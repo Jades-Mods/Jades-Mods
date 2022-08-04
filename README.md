@@ -21,7 +21,7 @@ To install this modpack, download the .zip file in this release and extract its 
 **[Lithium v0.8.1](https://modrinth.com/mod/lithium)** - No-compromises game logic/server optimization mod  
 **[Sodium Extra v0.4.6+build.47](https://modrinth.com/mod/sodium-extra)** - Features that shouldn't be in Sodium.  
 **[Sodium v0.4.2+build.16](https://modrinth.com/mod/sodium)** - Modern rendering engine and client-side optimization mod for Minecraft  
-**[Starlight v1.1.1](https://modrinth.com/mod/starlight)** - Rewrites the light engine to fix lighting performance and lighting errors  
+**[Starlight v1.1.1](https://modrinth.com/mod/starlight)** - Rewrites the light engine to fix lighting performance and lighting errors
 ### Quality of Life mods
 **[AppleSkin v2.4.0](https://modrinth.com/mod/appleskin)** - Food/hunger-related HUD improvements  
 **[Armor Chroma v1.2.2](https://www.curseforge.com/minecraft/mc-mods/armor-chroma-for-fabric)** - Armor Chroma is a mod which rehauls the vanilla armor bar.  
